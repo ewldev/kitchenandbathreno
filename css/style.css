@@ -1,0 +1,42 @@
+/*
+font-family: 'Roboto', sans-serif;
+font-family: 'Lato', sans-serif;
+font-family: 'Niconne', cursive;
+*/
+
+.bg-custom {
+	background-color: grey;
+}
+
+h1, h2, h4 {
+	font-family: 'Roboto', sans-serif;
+}
+
+.category {
+	font-family: 'Niconne', cursive;
+	font-size: 3em;
+	letter-spacing: 3px;
+	padding-bottom: 8px;
+	border-bottom: 2px solid brown;
+    max-width: 100px;
+}
+
+body {
+	font-family: 'Lato', sans-serif;
+}
+
+main h1, p {
+	word-spacing: 3px;
+}
+
+.navbar-nav li {
+    margin: 0 2rem;
+}
+
+.nav1 {
+	border-bottom: 1rem solid lightgrey;
+}
+
+img {
+	max-width: 100%;
+}
